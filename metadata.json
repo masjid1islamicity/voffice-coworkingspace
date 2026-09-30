@@ -1,0 +1,6 @@
+{
+  "name": "Islamicity Virtual Office & Co-Working Platform",
+  "description": "Infrastruktur Virtual Office Cerdas Berdaya Syariah lengkap dengan Logistics Hub Pengiriman Kolaboratif Ramah Lingkungan & Rute Cerdas AI, AI Strategic Business Matchmaker, SOP Operasional, Smart Mailroom, Revenue Analytics, Kalkulator Zakat Maal & Distribusi Transparan, Wakaf Produktif, dan AI Generator Akad Ijarah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
